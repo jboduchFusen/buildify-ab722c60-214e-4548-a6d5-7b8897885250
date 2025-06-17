@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Hello World!</h1>
+        <h1>Hello New York!</h1>
       </header>
       <main>
         <p>Welcome to my simple React application</p>
